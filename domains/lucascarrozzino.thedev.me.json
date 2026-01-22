@@ -1,0 +1,13 @@
+{
+  "subdomain": "lucascarrozzino",
+  "domain": "thedev.me",
+  "email_or_discord": "lucass.crz@gmail.com",
+  "github_username": "lucas.crz",
+  "description": "My personal portifolio",
+
+  "records": {
+    "CNAME": ["56efc3d74be852c0.vercel-dns-017.com."],
+  },
+
+  "proxied": true
+}
