@@ -7,7 +7,7 @@
 
   "records": {
     "CNAME": ["56efc3d74be852c0.vercel-dns-017.com."],
-    "TXT":["vc-domain-verify=lucascarrozzino.thedev.me,521e82d0c878ff55fadb"],
+    "TXT":["vc-domain-verify=lucascarrozzino.thedev.me,521e82d0c878ff55fadb"]
   },
 
   "proxied": true
